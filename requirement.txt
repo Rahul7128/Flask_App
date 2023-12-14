@@ -1,0 +1,8 @@
+Flask
+Opencv-python
+tensorflow
+flask-SQLAlchemy
+flask-mail
+flask-wtf
+Tesseract-OCR
+mediapipe
