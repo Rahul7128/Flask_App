@@ -1085,8 +1085,6 @@ def captch():
     return render_template('tut9.html', word_result=word_result)
 
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000, debug=True) 
 
                      
             
